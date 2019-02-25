@@ -1,5 +1,5 @@
 /*
-Trix 0.11.1
+Trix 0.11.2
 Copyright © 2017 Basecamp, LLC
 http://trix-editor.org/
  */
